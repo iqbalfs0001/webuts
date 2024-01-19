@@ -15,6 +15,7 @@
         <option value="">laki-laki</option>
         <option value="">Perempuan</option>
         <option value="">Ladyboy</option>
+    </select>
   </label><br><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value=""><br><br>
@@ -27,7 +28,7 @@
   <input type="checkbox" id="game2" name="game2" value="Game">
   <label for="game2"> Main Game</label><br>
   <input type="checkbox" id="Tidur3" name="tidur3" value="tidur">
-  <label for="tidur3"> Tidur</label>
+  <label for="tidur3"> Tidur</label><br>
   <input type="date" value=""><br>
   <input type="submit" value="Submit">
 </form> 
