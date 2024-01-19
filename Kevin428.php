@@ -7,10 +7,10 @@
 </head>
 <body>
     <h1> HTML FORMS </h1>
-    <form action="/action_page.php">
+    <form action="">
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname" value=""><br>
-  <label for="jenis kelamin">Jenis Kelamin:
+  <label for="">Jenis Kelamin:
     <select name="" id="">
         <option value="">laki-laki</option>
         <option value="">Perempuan</option>
