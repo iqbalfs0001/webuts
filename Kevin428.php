@@ -12,6 +12,8 @@
   <input type="text" id="fname" name="fname" value=""><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value=""><br><br>
+  <label for="alamat">Alamat:</label><br>
+  <input type="text" id="alamat" name="alamat" value=""><br>
   <input type="submit" value="Submit">
 </form> 
 
