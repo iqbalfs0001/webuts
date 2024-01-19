@@ -15,7 +15,7 @@
   <label for="alamat">Alamat:</label><br>
   <input type="text" id="alamat" name="alamat" value=""><br>
   <label for=""> Tanggal Lahir</label><br>
-  <input type="date"><br>
+  <input type="date" value=""><br>
   <input type="submit" value="Submit">
 </form> 
 
