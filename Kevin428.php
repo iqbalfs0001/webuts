@@ -9,7 +9,7 @@
     <h1> HTML FORMS </h1>
     <form action="">
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value=""><br>
+  <input type="text" id="fname" name="fname" value=""><br><br>
   <label for="">Jenis Kelamin:
     <select name="" id="">
         <option value="">laki-laki</option>
