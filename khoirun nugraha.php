@@ -25,7 +25,7 @@
 
     <br>
     lulus sekolah :
-    <label for=""><input type="radio" value="lulus" name="lulus" checked> sudah lulus</label>
+    <label for="sudah lulus"><input type="radio" value="lulus" name="lulus" checked id="sudah lulus"> sudah lulus</label>
     <label for=""><input type="radio" value="tidak lulus" name="lulus"> belum lulu</label>
     <br>
     hobby :
