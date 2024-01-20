@@ -14,7 +14,7 @@
     <br>
     <label for="">
         alamat
-        <textarea name="" id="" placeholder="tuliskan nama lengkap anda"></textarea>
+        <textarea name="" id="" placeholder="tuliskan alamat lengkap anda"></textarea>
     </label>
     <br>
     
